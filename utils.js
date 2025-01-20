@@ -51,8 +51,6 @@ function setupVimeo(minBbox, scaleFactor, videoSize) {
  //   https://player.vimeo.com/video/752422133  [Commercial] LG(엘지) OLED_The Black 4K HDR
  //   https://player.vimeo.com/video/1048151282 김주원 작가
 
- 
-
   let iframeWidth = minBbox * scaleFactor * videoSize * 1.3; 
   let iframeHeight = minBbox * scaleFactor * videoSize * 0.963; 
 
